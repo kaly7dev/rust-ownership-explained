@@ -1,0 +1,18 @@
+[package]
+name = "rust-ownership-explained"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "move_semantics"
+path = "examples/move_semantics.rs"
+
+[[bin]]
+name = "borrowing"
+path = "examples/borrowing.rs"
+
+[[bin]]
+name = "collections"
+path = "examples/collections.rs"
