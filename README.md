@@ -215,7 +215,7 @@ cargo run --bin collections
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) or [Apache-2.0 License](LICENSE-APACHE), at your choice.
+This project is licensed under the [MIT License](LICENSE) or [GNU GENERAL PUBLIC LICENSE](LICENSE), at your choice.
 
 ## Contributing
 
